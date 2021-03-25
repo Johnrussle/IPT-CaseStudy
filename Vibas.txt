@@ -1,0 +1,26 @@
+package casestudy;
+
+
+public class CaseStudy {
+
+    //John Russle C. Vibas
+    static void method4(){
+            System.out.println("My name is John Russle C. Vibas");
+                    }
+    static void method5(){
+    System.out.println("I'm From Brgy. San Miguel, Tarlac");
+    }
+    static void method6(){
+    System.out.println("I'm 20 yrs old");
+    System.out.println("----------------------------------");
+    }
+	
+	
+
+ public static void main(String[] args) {
+        method4();
+        method5();
+        method6();
+	
+ }
+}
